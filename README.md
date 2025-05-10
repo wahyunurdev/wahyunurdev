@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Wahyu (https://github.com/yourusername)**, a passionate developer and tech enthusiast. Here's a little bit about me:
+Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a passionate developer and tech enthusiast. Here's a little bit about me:
 
 ### 🔭 Currently Working On
 - Developing projects in **Web Programming**.
