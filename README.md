@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**wahyunurdev/wahyunurdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **Wahyu (https://github.com/yourusername)**, a passionate developer and tech enthusiast. Here's a little bit about me:
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- Developing projects in **Web Programming**.
+- Building tools and systems for **mobile learning, web development, data science, AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Diving deeper into **gamified learning paltform**.
+- Exploring new concepts in **self regulated learning, game education**.
+
+### 👯 Looking to Collaborate On
+- Open source projects related to **personalized learning**.
+- Exploring **mobile learning** together with other developers.
+
+### 💬 Ask Me About
+- **digital learning**.
+
+### 📫 How to Reach Me
+- Email: wahyunurdev@gmail.com (mailto:wahyunurdev@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+### 😄 Pronouns
+- He/Him | She/Her | They/Them (choose as appropriate)
+
+### ⚡ Fun Fact
+- I love learning new things and experimenting with code. I once built **[mention a cool project or accomplishment]** just for fun!
+
+---
+
+### 🎮 Play a Simple Game!
+
+Let's play a **Number Guessing Game**. I'll pick a random number between 1 and 100, and you have to guess it!
+
+#### Steps to play:
+1. **Guess the number** by choosing a number between 1 and 100.
+2. I’ll tell you if the number is too high, too low, or correct!
+3. The goal is to guess the number in as few tries as possible.
+
+#### Start the game:
+```bash
+# Start the Number Guessing Game
+
+1. Guess a number between 1 and 100.
+2. You'll get a hint whether the number is higher or lower.
+3. Keep guessing until you find the correct number!
+
+Example of how to play in your console:
+- **Guess**: 50
+- **Response**: "Too high!" or "Too low!" or "Correct!"
