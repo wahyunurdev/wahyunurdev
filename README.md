@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a 
 - **digital learning**.
 
 ### 📫 How to Reach Me
-- Email: wahyunurdev@gmail.com (mailto:wahyunurdev@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [wahyunurdev@gmail.com](mailto:wahyunurdev@gmail.com)
+- LinkedIn: [Wahyu Nur Hidayat](https://www.linkedin.com/in/wahyu-nur-hidayat-a67410115)
 
 ### 😄 Pronouns
 - He/Him | She/Her | They/Them (choose as appropriate)
