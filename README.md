@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a 
 - LinkedIn: [Wahyu Nur Hidayat](https://www.linkedin.com/in/wahyu-nur-hidayat-a67410115)
 
 ### 😄 Pronouns
-- He/Him | She/Her | They/Them (choose as appropriate)
+- He/Him
 
 ### ⚡ Fun Fact
-- I love learning new things and experimenting with code. I once built **[mention a cool project or accomplishment]** just for fun!
+- I love learning new things and experimenting with code. I once built **[Sinau Coding]** just for fun!
 
 ---
 
