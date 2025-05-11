@@ -34,21 +34,14 @@ Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a 
 
 ### 🎮 Play a Simple Game!
 
-Let's play a **Number Guessing Game**. I'll pick a random number between 1 and 100, and you have to guess it!
+<img src="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/snake.svg" alt="Snake animation" />
 
-#### Steps to play:
-1. **Guess the number** by choosing a number between 1 and 100.
-2. I’ll tell you if the number is too high, too low, or correct!
-3. The goal is to guess the number in as few tries as possible.
+###
 
-#### Start the game:
-```bash
-# Start the Number Guessing Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph.svg">
+</picture>
 
-1. Guess a number between 1 and 100.
-2. You'll get a hint whether the number is higher or lower.
-3. Keep guessing until you find the correct number!
-
-Example of how to play in your console:
-- **Guess**: 50
-- **Response**: "Too high!" or "Too low!" or "Correct!"
+###
