@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Wahyu Nur Hidayat](img/github-header-image2.png)
+
 Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a passionate developer and tech enthusiast. Here's a little bit about me:
 
 ### 🔭 Currently Working On
