@@ -34,8 +34,6 @@ Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a 
 
 ### 🎮 Play a Simple Game!
 
-<img src="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyunurdev/wahyunurdev/output/pacman-contribution-graph.svg">
