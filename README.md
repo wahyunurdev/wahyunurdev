@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a 
  [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.wahyunurdev@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/meja.dosen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-nur-hidayat-a67410115)
 
 ### ⚡ Fun Fact
-- I love learning new things and experimenting with code. I once built **[Sinau Coding]** just for fun!
+- I love learning new things and experimenting with code. I once built **[Sinau Coding](https://sinaucoding-v2.mejadosen.my.id/)** just for fun!
 
 ---
 
