@@ -2,8 +2,8 @@
 
 ![Wahyu Nur Hidayat](img/github-header-image2.png)
 
-![Profile Picture]<img src="img/anime-wahyu.png" width="200" />
-Welcome to my GitHub profile! I'm **Wahyu (https://github.com/wahyunurdev)**, a passionate developer and tech enthusiast. Here's a little bit about me:
+<img src="img/anime-wahyu.png" width="200" /><br>
+Welcome to my GitHub profile! I'm **[Wahyu](https://github.com/wahyunurdev)**, a passionate developer and tech enthusiast. Here's a little bit about me:
 
 ### 🔭 Currently Working On
 - Developing projects in **Web Programming**.
