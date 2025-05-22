@@ -2,23 +2,13 @@
 
 ![Wahyu Nur Hidayat](img/github-header-image2.png)
 
-<img src="img/anime-wahyu.png" width="200" /><br>
+<img src="img/final.jpg" width="500" /><br>
 Welcome to my GitHub profile! I'm **[Wahyu](https://github.com/wahyunurdev)**, a passionate developer and tech enthusiast. Here's a little bit about me:
 
-### 🔭 Currently Working On
-- Developing projects in **Web Programming**.
-- Building tools and systems for **mobile learning, web development, data science, AI**.
-
-### 🌱 Currently Learning
-- Diving deeper into **gamified learning paltform**.
-- Exploring new concepts in **self regulated learning, game education**.
-
-### 👯 Looking to Collaborate On
-- Open source projects related to **personalized learning**.
-- Exploring **mobile learning** together with other developers.
-
-### 💬 Ask Me About
-- **digital learning**.
+### 🔭 My Research Proposal
+- Course: **Digital Divide and Multicultural Education**
+- Lecturer: **Prof. Ming-Kuo Hung**
+- **[Download Full Version](https://drive.google.com/drive/folders/1iFsXZ-Ti1tCdzUevWrUoDBt6M6ZCLrGu?usp=sharing)**
 
 ## Skills
 
@@ -28,10 +18,6 @@ Welcome to my GitHub profile! I'm **[Wahyu](https://github.com/wahyunurdev)**, a
 
  [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.wahyunurdev@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/meja.dosen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-nur-hidayat-a67410115)
 
-### ⚡ Fun Fact
-- I love learning new things and experimenting with code. I once built **[Sinau Coding](https://sinaucoding-v2.mejadosen.my.id/)** just for fun!
-
----
 
 ### 🎮 Play a Simple Game!
 
