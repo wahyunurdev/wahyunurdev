@@ -2,7 +2,7 @@
 
 ![Wahyu Nur Hidayat](img/github-header-image2.png)
 
-<img src="img/final.jpg" width="500" /><br>
+<img src="img/final.jpg" width="800" /><br>
 Welcome to my GitHub profile! I'm **[Wahyu](https://github.com/wahyunurdev)**, a passionate developer and tech enthusiast. Here's a little bit about me:
 
 ### 🔭 My Research Proposal
