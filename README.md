@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm **[Wahyu](https://github.com/wahyunurdev)**, a
 [![Scopus](https://img.shields.io/badge/Scopus-Author-blue?logo=scopus)](https://www.scopus.com/authid/detail.uri?authorId=57210040496)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.co.id/citations?user=CBvU2DQAAAAJ&hl=id&authuser=1&oi=ao)
 
+---
 
 ### 🎮 Play a Simple Game!
 
